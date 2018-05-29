@@ -1,0 +1,28 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
+}
+
+.ui.button {
+    margin: .50em .25em 0 0;
+}
+
+.content {
+    margin-top: 10px;
+}
+
+.description {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ui.button>.icon:not(.button) {
+    height: .40;
+}
